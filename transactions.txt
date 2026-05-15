@@ -1,0 +1,3 @@
+Expense,Food,2000.0,2026-05-15
+Expense,Food,2000.0,2026-05-15
+Income,Salary,80000.0,2025-04-11
